@@ -6,5 +6,5 @@ Four assginments for Data Analysis Using Python at UCLA Extension/.
 * Assignment 4: Time series
 # File Descriptions:
 There are four jupter notebook files available.
-#Acknowledgements
+# Acknowledgements
 Credits must be given to UCLA Extension.
